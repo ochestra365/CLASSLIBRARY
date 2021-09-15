@@ -8,7 +8,7 @@ namespace BabyCarrot.Tools
 {
     public class EmailManager
     {
-        //값을 코드에 박아 넣는 것을 하드코딩이라고 한다.
+        //값을 코드에 박아 넣는 것을 하드코딩이라고 한다.asdfasdf
         //예전에는 ini를 박아넣었으나 2015년 기준으로 xml을 박아넣는다.
         public static void Send(string to, string subject,string contents)
         {
